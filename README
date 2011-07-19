@@ -1,0 +1,11 @@
+Google App Engine Support Bot
+
+This is an app I wrote for the CloudSpokes challenge: http://www.cloudspokes.com/challenge_detail.html?contestID=193. The requirements were:
+
+With the introduction of the XMPP service to App Engine, it's now possible to write an App Engine app that communicates with users - or even other applications - over XMPP, otherwise known as Jabber or Google Talk. We are looking to build a virtual helpdesk operator, who will redirect support questions to an available helpdesk agent that a user might pose over XMPP (e.g. from Google Talk). The app must be built in AppEngine (Java or Python) and an admin page to assign a user as a helpdesk agent must be created. 
+ 
+Jeff Douglas
+Appirio
+
+http://blog.jeffdouglas.com
+http://www.cloudspokes.com
